@@ -1,4 +1,4 @@
 public class Login
 {
-	public static int main
+	public static int main()
 {
